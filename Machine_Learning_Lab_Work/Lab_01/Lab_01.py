@@ -1,9 +1,9 @@
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split
-## Task 1 – Dataset Cleaning 
+# Task 1 – Dataset Cleaning 
 # • Load the Titanic dataset (train.csv). 
-df = pd.read_csv("E:/Online Courses/Lab Work/Machine_Learning_Lab_Work/Lab#1/Titanic-Dataset.csv")
+df = pd.read_csv("E:/Online Courses/Lab Work/Machine_Learning_Lab_Work/Lab_01/Titanic-Dataset.csv")
 # • Display the first 10 rows. 
 print(df.head(10))
 # • Check for missing values in each column. 
@@ -20,9 +20,8 @@ print(df.isnull().sum())
 df["Sex"] = df["Sex"].map({"male": 0, "female": 1})
 # • Apply One-Hot Encoding on the "Embarked" column.
 df = pd.get_dummies(df, columns=["Embarked"], prefix="Embarked")
-
 # ==========================================================
-## Task 3 – Feature Scaling & Splitting 
+# Task 3 – Feature Scaling & Splitting 
 # • Select features: Age, Fare, Sex, Pclass. 
 features = ["Age", "Fare", "Sex", "Pclass"]
 # • Apply StandardScaler to normalize them. 
