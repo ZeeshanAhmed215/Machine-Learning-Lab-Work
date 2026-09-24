@@ -8,7 +8,9 @@ My **Machine Learning practical labs** for the **BS Artificial Intelligence** pr
 
 * ✅ Lab 01 — Data Preprocessing
 * ✅ Lab 02 — Linear Regression
-* ⏳ Lab 03–14 — Upcoming
+* ✅ Lab 03 — Logistic Regression
+* ✅ Lab 04 — Decision Tree Classifier
+* ⏳ Lab 05–14 — Upcoming
 
 ## 🛠️ Technologies
 
