@@ -12,7 +12,8 @@ My **Machine Learning practical labs** for the **BS Artificial Intelligence** pr
 * ✅ Lab 04 — Decision Tree Classifier
 * ✅ Lab 05 — Random Forest Classifier
 * ✅ Lab 06 — Support Vector Machine (SVM) Classifier
-* ⏳ Lab 07–14 — Upcoming
+* ✅ Lab 07 — House Price & Category Prediction (Open-Ended Lab)
+* ⏳ Lab 08–14 — Upcoming
 
 ## 🛠️ Technologies
 
