@@ -232,7 +232,7 @@ plt.show()
 # ============================================================
 
 try:
-    external_test = pd.read_csv("test.csv")
+    external_test = pd.read_csv(r"E:\Online Courses\ML_Lab_Work\Machine_Learning_Lab_Work\Lab_07\test.csv")
 
     ids = external_test["Id"].copy()
 
