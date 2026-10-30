@@ -14,7 +14,7 @@ My **Machine Learning practical labs** for the **BS Artificial Intelligence** pr
 * ✅ Lab 06 — Support Vector Machine (SVM) Classifier
 * ✅ Lab 07 — House Price & Category Prediction (Open-Ended Lab)
 * ✅ Lab 08 — K-Nearest Neighbors (KNN) Classifiers
-* ✅ Lab 08 — Naive Bayes Classifiers
+* ✅ Lab 09 — Naive Bayes Classifiers
 * ⏳ Lab 10–14 — Upcoming
 
 ## 🛠️ Technologies
